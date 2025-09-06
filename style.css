@@ -1,0 +1,15 @@
+ body {
+      background: #f8f9fa;
+    }
+    .todo-container {
+      max-width: 500px;
+      margin: 60px auto;
+      padding: 20px;
+      border-radius: 15px;
+      background: #fff;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    }
+    .completed {
+      text-decoration: line-through;
+      color: gray;
+    }
